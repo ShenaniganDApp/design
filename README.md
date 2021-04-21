@@ -1,8 +1,8 @@
 # Design
 
-Team Lead: @kilgore
-Discord: Kilgore #0001
-Twitter: @duckcmdr
+- Team Lead: @kilgore
+- Discord: Kilgore #0001
+- Twitter: @duckcmdr
 
 ## To Do
 
