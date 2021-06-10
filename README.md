@@ -1,10 +1,13 @@
 # Design
 
-- Team Lead: @kilgore
+Team Lead: @kilgore
 - Discord: Kilgore #0001
 - Twitter: @duckcmdr
 
+Lead Designer: @excuro
+
 ## To Do
 
-1. Lead Designer
-2. Vision Board
+1. Vision Board
+- Scaffold issues
+- consult with Excuro
